@@ -1,0 +1,33 @@
+# --- Unreal Engine ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE / User specific
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Build outputs inside plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Backups / logs / temp
+*.log
+*.tlog
+*.obj
+*.pdb
+*.tmp
+*.bak
+*.old
+
+# Optional: ignore autosaves & collections cache
+Content/Collections/*
+!Content/Collections/Collections.json
