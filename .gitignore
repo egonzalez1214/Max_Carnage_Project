@@ -10,7 +10,6 @@ Saved/
 .idea/
 *.VC.db
 *.VC.opendb
-*.sln
 *.suo
 *.user
 *.userprefs
